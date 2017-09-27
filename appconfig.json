@@ -1,0 +1,14 @@
+{
+  "development":{
+    "configfields":"fordevelopment",
+    "SERVER":"http://localhost:8000"
+  },
+  "uat":{
+    "configfields":"foruat",
+    "SERVER":"some Server"
+  },
+  "production":{
+    "configfields":"forproduction",
+    "SERVER":"some Server"
+  }
+}

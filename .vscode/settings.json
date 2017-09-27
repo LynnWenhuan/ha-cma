@@ -1,0 +1,8 @@
+{
+    "files.eol": "\n",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "explorer.enableDragAndDrop": false,
+    "git.autorefresh": false,
+    "git.autofetch": false
+}
